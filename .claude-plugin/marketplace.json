@@ -1,0 +1,18 @@
+{
+  "name": "personae",
+  "owner": {
+    "name": "Jeffery Harrell",
+    "email": "jefferyharrell@gmail.com"
+  },
+  "description": "Claude plugins for the people of the household — distributable selves, each with their own identity and memory.",
+  "plugins": [
+    {
+      "name": "Alpha",
+      "source": {
+        "source": "github",
+        "repo": "Pondsiders/Alpha"
+      },
+      "description": "Alpha"
+    }
+  ]
+}
